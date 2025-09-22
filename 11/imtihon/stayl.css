@@ -1,0 +1,19 @@
+.box{
+    background-color: goldenrod;
+    text-align: center;
+}
+table{
+    border: .3px solid black;
+border-spacing: 0;
+width: 100%;
+}
+tr,th,td{
+    border: 1px solid;
+    border-spacing: 0px;
+}
+.offis{
+    background-color: antiquewhite;
+}
+  .offis  iframe{
+  width: 1350px;
+    }
